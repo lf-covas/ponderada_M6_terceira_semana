@@ -1,10 +1,10 @@
 {
-    "animals": [
+    "animais": [
         {
             "id": 1,
             "nome": "Yuri",
-            "especie": "Mamifero",
-            "Nivel_felicidade": 0
+            "especie": "Mamífero",
+            "nivel_felicidade": 0
         }
     ],
     "recintos": [
@@ -13,13 +13,12 @@
             "nome": "Resenhadores",
             "condicao": "ok",
             "capacidade": 5,
-            "visitas": 0,
-            "animais": 1
+            "animais": [1]
         }
     ],
-    "visitas":[
+    "visitas": [
         {
-            "quantidade":0
-    }
+            "quantidade": 0
+        }
     ]
 }

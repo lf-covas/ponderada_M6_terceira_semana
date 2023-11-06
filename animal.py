@@ -1,6 +1,3 @@
-import unittest
-
-
 class Animal():
     def __init__(self, nome, especie, nivel_felicidade):
         print("Novo animal criado")

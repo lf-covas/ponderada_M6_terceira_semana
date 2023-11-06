@@ -1,13 +1,10 @@
-import unittest
-
 class Recinto():
-    def __init__(self, nome, condicao, capacidade, visitas):
+    def __init__(self, nome, condicao, capacidade, animais=[]):
         print("Novo recinto criado")
         self.nome = nome
         self.condicao = condicao
         self._capacidade = capacidade
-        self.visitas = visitas
-        self.animais = []
+        self.animais = animais
 
     @property
     def capacidade(self):
