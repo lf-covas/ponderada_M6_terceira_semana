@@ -1,24 +1,3 @@
 {
-    "animais": [
-        {
-            "id": 1,
-            "nome": "Yuri",
-            "especie": "Mamífero",
-            "nivel_felicidade": 0
-        }
-    ],
-    "recintos": [
-        {
-            "id": 1,
-            "nome": "Resenhadores",
-            "condicao": "ok",
-            "capacidade": 5,
-            "animais": [1]
-        }
-    ],
-    "visitas": [
-        {
-            "quantidade": 0
-        }
-    ]
+
 }
