@@ -1,0 +1,43 @@
+{
+  "zoo": {
+    "recintos": [
+      {
+        "nome": "Insper",
+        "animais": [],
+        "estado": "Vazio"
+      },
+      {
+        "nome": "Inteli",
+        "animais": [
+          {
+            "nome": "Luiz",
+            "especie": "Estudante",
+            "nivel_felicidade": 90
+          },
+          {
+            "nome": "Rafa",
+            "especie": "estudante",
+            "nivel_felicidade": 45
+          },
+          {
+            "nome": "Yuri",
+            "especie": "Estudante",
+            "nivel_felicidade": 90
+          }
+        ],
+        "estado": "Bem cuidado!"
+      },
+      {
+        "nome": "FGV",
+        "animais": [],
+        "estado": "Mal cuidado!"
+      },
+      {
+        "nome": "USP",
+        "animais": [],
+        "estado": "Vazio"
+      }
+    ],
+    "visitas": 6
+  }
+}

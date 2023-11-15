@@ -1,0 +1,96 @@
+{
+  "zoo": {
+    "recintos": [
+      {
+        "nome": "Insper",
+        "animais": [],
+        "estado": "Vazio"
+      },
+      {
+        "nome": "Inteli",
+        "animais": [
+          {
+            "nome": "Luiz",
+            "especie": "Estudante",
+            "nivel_felicidade": 90
+          },
+          {
+            "nome": "Rafa",
+            "especie": "estudante",
+            "nivel_felicidade": 30
+          },
+          {
+            "nome": "Yuri",
+            "especie": "Estudante",
+            "nivel_felicidade": 75
+          },
+          {
+            "nome": "Gabs",
+            "especie": "Estudante",
+            "nivel_felicidade": 0
+          },
+          {
+            "nome": "Gabs",
+            "especie": "Estudante",
+            "nivel_felicidade": 0
+          }
+        ],
+        "estado": "Mal cuidado!"
+      },
+      {
+        "nome": "FGV",
+        "animais": [],
+        "estado": "Mal cuidado!"
+      },
+      {
+        "nome": "Inteli",
+        "animais": [
+          {
+            "nome": "Gabs",
+            "especie": "Estudante",
+            "nivel_felicidade": 0
+          },
+          {
+            "nome": "Gabs",
+            "especie": "Estudante",
+            "nivel_felicidade": 0
+          }
+        ],
+        "estado": "Mal cuidado!"
+      },
+      {
+        "nome": "Inteli",
+        "animais": [
+          {
+            "nome": "Gabs",
+            "especie": "Estudante",
+            "nivel_felicidade": 0
+          },
+          {
+            "nome": "Gabs",
+            "especie": "Estudante",
+            "nivel_felicidade": 0
+          }
+        ],
+        "estado": "Mal cuidado!"
+      },
+      {
+        "nome": "Inteli",
+        "animais": [
+          {
+            "nome": "Gabs",
+            "especie": "Estudante",
+            "nivel_felicidade": 0
+          }
+        ],
+        "estado": "Mal cuidado!"
+      },
+      {
+        "nome": "Inteli",
+        "animais": [],
+        "estado": "Vazio"
+      }
+    ],
+    "visitas": 6
+  }
+}
