@@ -8,7 +8,7 @@ class TesteAnimal(unittest.TestCase):
         self.assertEqual(animal.nome, "Gabs")
         self.assertEqual(animal.especie, "Estudante")
         self.assertEqual(animal.recinto, "Inteli")
-        self.assertEqual(animal.nivel_felicidade, 0)
+        self.assertEqual(animal.nivel_felicidade, 50)
         self.assertEqual(estado_recinto, "Vazio")
 
     def test_alimentar_animal(self):
@@ -16,10 +16,6 @@ class TesteAnimal(unittest.TestCase):
         self.assertEqual(nivel_felicidade, 90)
         print(estado_recinto)
         self.assertEqual(estado_recinto, "Muito bem cuidado!")
-
- 
-
-    
 
 if __name__ == '__main__':
     unittest.main()

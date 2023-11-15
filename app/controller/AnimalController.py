@@ -27,7 +27,6 @@ class AnimalController:
                 recinto['animais'].append(animal_info)
                 recinto['estado'] = cls.verificar_estado_recinto(recinto)
 
-                # break
 
         if not recinto_encontrado:
             print(f"Recinto '{nome_recinto}' não encontrado. Não é possível criar o animal sem informar um recinto existente.")

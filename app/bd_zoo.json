@@ -16,13 +16,13 @@
           },
           {
             "nome": "Rafa",
-            "especie": "estudante",
+            "especie": "Estudante",
             "nivel_felicidade": 45
           },
           {
             "nome": "Yuri",
             "especie": "Estudante",
-            "nivel_felicidade": 90
+            "nivel_felicidade": 75
           }
         ],
         "estado": "Bem cuidado!"
@@ -30,10 +30,15 @@
       {
         "nome": "FGV",
         "animais": [],
-        "estado": "Mal cuidado!"
+        "estado": "Vazio"
       },
       {
         "nome": "USP",
+        "animais": [],
+        "estado": "Vazio"
+      },
+      {
+        "nome": "FSA",
         "animais": [],
         "estado": "Vazio"
       }
